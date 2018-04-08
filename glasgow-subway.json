@@ -1,0 +1,285 @@
+[
+    {
+        "station_name": "Bridge Street",
+        "address_line_1": 67,
+        "address_line_2": "Eglinton Street",
+        "address_line_3": "Glasgow",
+        "postcode": "G5 9NR",
+        "easting": 258710,
+        "northing": 664400,
+        "accesible": true,
+        "park_and_ride": true,
+        "wifi": true,
+        "bike_shelter": true,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Citizen's Theatre",
+            "02 Academy"
+        ]
+    },
+    {
+        "station_name": "Buchanan Street",
+        "address_line_1": 174,
+        "address_line_2": "Buchanan Street",
+        "address_line_3": "Glasgow",
+        "postcode": "G1 2JZ",
+        "easting": 259073,
+        "northing": 665577,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Queen's Street Station",
+            "Buchanan Bus Station",
+            "Buchanan Galleries"
+        ]
+    },
+    {
+        "station_name": "Cessnock",
+        "address_line_1": 1,
+        "address_line_2": "Cessnock Street",
+        "address_line_3": "Glasgow",
+        "postcode": "G51 1AS",
+        "easting": 256470,
+        "northing": 664490,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Glasgow Science Centre",
+            "IMAX",
+            "SECC"
+        ]
+    },
+    {
+        "station_name": "Cowcaddens",
+        "address_line_1": 11,
+        "address_line_2": "Dundasvale Court, Unit 1",
+        "address_line_3": "Glasgow",
+        "postcode": "G4 0SN",
+        "easting": 258679,
+        "northing": 666191,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Glasgow School of Art",
+            "GFT",
+            "Tenement House"
+        ]
+    },
+    {
+        "station_name": "Govan",
+        "address_line_1": 737,
+        "address_line_2": "Govan Road",
+        "address_line_3": "Glasgow",
+        "postcode": "G51 2YJ",
+        "easting": 255490,
+        "northing": 665643,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Southern General Hospital",
+            "Govan Old Parish Church"
+        ]
+    },
+    {
+        "station_name": "Hillhead",
+        "address_line_1": 248,
+        "address_line_2": "Byres Road",
+        "address_line_3": "Glasgow",
+        "postcode": "G12 8SH",
+        "easting": 256615,
+        "northing": 667052,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Byres Road",
+            "Ashton Lane",
+            "Botanic Gardens",
+            "University of Glasgow"
+        ]
+    },
+    {
+        "station_name": "Ibrox",
+        "address_line_1": 124,
+        "address_line_2": "Copland Road",
+        "address_line_3": "Glasgow",
+        "postcode": "G51 2UB",
+        "easting": 255830,
+        "northing": 664787,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Bellahouston Park",
+            "Ibrox Stadium"
+        ]
+    },
+    {
+        "station_name": "Kelvinhall",
+        "address_line_1": 7,
+        "address_line_2": "Dalcross Pass",
+        "address_line_3": "Glasgow",
+        "postcode": "G11 5RA",
+        "easting": 256184,
+        "northing": 666598,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Kelvingrove Museum",
+            "Western Infirmary"
+        ]
+    },
+    {
+        "station_name": "Kelvinbridge",
+        "address_line_1": 99,
+        "address_line_2": "South Woodside Road",
+        "address_line_3": "Glasgow",
+        "postcode": "G4 9HG",
+        "easting": 257475,
+        "northing": 666922,
+        "accesible": true,
+        "park_and_ride": true,
+        "wifi": true,
+        "bike_shelter": true,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Kelvingrove Park"
+        ]
+    },
+    {
+        "station_name": "Kinning Park",
+        "address_line_1": 30,
+        "address_line_2": "Cornwall Street",
+        "address_line_3": "Glasgow",
+        "postcode": "G41 1AH",
+        "easting": 256864,
+        "northing": 664281,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": []
+    },
+    {
+        "station_name": "Partick",
+        "address_line_1": 15,
+        "address_line_2": "Merkland Street",
+        "address_line_3": "Glasgow",
+        "postcode": "G11 6DB",
+        "easting": 255635,
+        "northing": 666503,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": true,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Partick Rail Station",
+            "Partick Bus Station",
+            "Riverside Museum"
+        ]
+    },
+    {
+        "station_name": "Sheilds Road",
+        "address_line_1": 360,
+        "address_line_2": "Scotland Street",
+        "address_line_3": "Glasgow",
+        "postcode": "G5 8QF",
+        "easting": 257660,
+        "northing": 664205,
+        "accesible": true,
+        "park_and_ride": true,
+        "wifi": true,
+        "bike_shelter": true,
+        "special_car_sharing_parking_spaces": true,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Scotland Street School",
+            "Museum Of Education"
+        ]
+    },
+    {
+        "station_name": "St. Enoch",
+        "address_line_1": 10,
+        "address_line_2": "St Enoch Square",
+        "address_line_3": "Glasgow",
+        "postcode": "G1 4DB",
+        "easting": 258946,
+        "northing": 665038,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "Glasgow Central Station",
+            "St. Enoch Centre"
+        ]
+    },
+    {
+        "station_name": "St Georges Cross",
+        "address_line_1": 51,
+        "address_line_2": "Great Western Road",
+        "address_line_3": "Glasgow",
+        "postcode": "G4 9AH",
+        "easting": 258106,
+        "northing": 666560,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": [
+            "The Mitchell Library"
+        ]
+    },
+    {
+        "station_name": "West Street",
+        "address_line_1": 281,
+        "address_line_2": "West Street",
+        "address_line_3": "Glasgow",
+        "postcode": "G5 8NB",
+        "easting": 258220,
+        "northing": 664150,
+        "accesible": true,
+        "park_and_ride": false,
+        "wifi": true,
+        "bike_shelter": false,
+        "special_car_sharing_parking_spaces": false,
+        "lost_property_number": "0141 335 3276.",
+        "nearby": []
+    }
+]
